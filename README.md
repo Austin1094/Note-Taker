@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1KQhHlsabnKeopuYWQYHmnD4tNMar0Gho/view?usp=shari
 
 Link to Heroku app:
 
-https://calm-hollows-09005.herokuapp.com/notes
+https://calm-hollows-09005.herokuapp.com/
 
 ## Description
   A note taking application that allows users to create mulitple notes with a title and text. Once a note is created, the user can choose to save it by clicking on the save button that appears at the top right after they've began typing. Each saved note is then listed on the left side. The user can also choose to delete the note by clicking on the delete button next to the saved note.
